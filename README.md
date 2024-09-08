@@ -12,8 +12,8 @@ This Jupyter notebook helps users see the economic conditions at the time of a m
 
 To run this notebook, you need to set up API keys for:
 
-1. OMDb API (for movie information, mainly release date and gross revenue)  
-2. FRED API (for unemployment data)
+1. [OMDb API](https://www.omdbapi.com/apikey.aspx) (for movie information, mainly release date and gross revenue)  
+2. [FRED API](https://fred.stlouisfed.org/docs/api/api\_key.html) (for unemployment data)
 
 Make sure to add these API keys to the `SECRETS` tab in Google Colab.
 
